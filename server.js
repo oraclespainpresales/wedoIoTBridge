@@ -27,7 +27,7 @@ const PROCESSNAME = "IoTCS Integration Bridge"
     , restURI     = '/iot/integration'
     , RESTPORT    = 5000
     , WEDOTARGET  = 'WEDO-Target'
-    , TIMEOUT     = 5000
+    , TIMEOUT     = 15000
 ;
 
 const CERTFOLDER = "/u01/ssl/";
